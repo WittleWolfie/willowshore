@@ -182,7 +182,7 @@
          "y":1319,
          "category":"landmark",
          "title":"Downtown Willowshore",
-         "description":"",
+         "description":"Downtown Willowshore remains a major hub of activity in town. A detail of Downtown Willowshore is dispayed on the top left of the map.",
          "tags":[
             "landmark"
          ]
@@ -191,8 +191,8 @@
          "x":170,
          "y":695,
          "category":"landmark",
-         "title":"Imperial Baracks",
-         "description":"",
+         "title":"Imperial Baracks house the Willowshore guard. Once commanded by <i>Granny Hu</i>, now the stoic <i>Zheng Peng</i> leads the guard.",
+         "description":"The ",
          "tags":[
             "shop"
          ]
@@ -202,7 +202,7 @@
          "y":353,
          "category":"trade",
          "title":"Treesparrow's Rest",
-         "description":"",
+         "description":"One of Willowshore's busiest stores, the Treesparrow's Nest is a family-owned grocery store run by <i>Nadoya Sanmi</i>.",
          "tags":[
             "shop"
          ]
@@ -212,7 +212,7 @@
          "y":340,
          "category":"trade",
          "title":"The Happy Kappa",
-         "description":"",
+         "description":"The Happy Kappa is Willowshore's public bathhouse, run by the chatty halfling <i>Hua De-ge</i>. It is known as a place of relaxation, but also a good place to find some gossip.",
          "tags":[
             "shop"
          ]
@@ -222,7 +222,7 @@
          "y":632,
          "category":"landmark",
          "title":"Seven Coloured Songbird Theatre",
-         "description":"",
+         "description":"The outdoor stage is frequently used to show Shu Opera performances, orchestrated by the gregarious kitsune director <i>Kazuma Oono</i>, who owns the theatre.",
          "tags":[
             "landmark"
          ]
@@ -232,7 +232,7 @@
          "y":1070,
          "category":"house",
          "title":"Governor's Mansion",
-         "description":"",
+         "description":"The governor’s home and office, which also serves as the village’s bank and treasury. It is a stately, large building befitting an imperial governor, even if that empire has collapsed.",
          "tags":[
             "landmark",
             "house"
@@ -243,7 +243,7 @@
          "y":1213,
          "category":"trade",
          "title":"Luo and Laws",
-         "description":"",
+         "description":"The office of <i>Luo Xi Yang</i>, an eager female lawyer who is an expert at the complex laws that still govern Willowshore, in part because of her very extensive legal and historical library.",
          "tags":[
             "shop"
          ]
@@ -253,7 +253,7 @@
          "y":1004,
          "category":"trade",
          "title":"Woodcarver's Guild",
-         "description":"",
+         "description":"To ensure the lumber lords would never favor anyone, the woodcarvers came together to form a guild, through which young apprentices have the opportunity to intern at different shops during their apprenticeship. <i>Yun Mong-Un</i>, the woodcarver’s current elected guild leader, is a product of such training. <i>Old Matsuki</i> is a highly respected figure here as well, having trained many of the current master crafters.",
          "tags":[
             "shop"
          ]
@@ -263,7 +263,7 @@
          "y":1238,
          "category":"trade",
          "title":"Second Best",
-         "description":"",
+         "description":"Run by the inventor <i>Huo Tian-Zhe</i>, Second Best is a shop where all sorts of gadgets, tools and devices can be found. Huo Tian-Zhe occasionally collaborates with Yung Wu-Xiu of the Eternal Blaze on maintaining the town's dam.",
          "tags":[
             "shop"
          ]
@@ -273,7 +273,7 @@
          "y":1129,
          "category":"trade",
          "title":"The Hand Of Spring",
-         "description":"",
+         "description":"The practice of doctor <i>Damihansig Mababangloob</i>, whom everyone calls <i>Dami</i> for short. Dami uses a mix of acupuncture, purified chemicals, and surgery to provide care. Though his treatments aren’t what Willowshore is used to, Dami has developed quite a reputation for being a charitable doctor who cares more about his patients than monetary gain.",
          "tags":[
             "shop"
          ]
@@ -283,7 +283,7 @@
          "y":1319,
          "category":"trade",
          "title":"Mother's Coil",
-         "description":"",
+         "description":"A tower of dark basalt in the Nagajor style created overnight some 15 years ago by the late nagaji wizard Anjal of Thulsadus. This little corner of arcane study is now managed by Anjal's former apprentice, <i>Igawa Jubei</i>.",
          "tags":[
             "shop"
          ]
@@ -293,7 +293,7 @@
          "y":1095,
          "category":"trade",
          "title":"Ceiba-Duyue Exchange",
-         "description":"",
+         "description":"The heart of Willowshore's trade with the outside world. While the Kofusachi priest <i>Kim Gu-won</i> officially manages the exchange, this is also the residence of <i>“Granny” Hu Ban-niang</i>, the cunning matriarch that leads the Northridge faction.",
          "tags":[
             "shop"
          ]
@@ -303,7 +303,7 @@
          "y":1134,
          "category":"trade",
          "title":"Fisheries",
-         "description":"",
+         "description":"Freshwater fish is an important food source for Willowshore. Locals traditionally capture entire schools of fish, preserve those above a certain size, and raise small ones in their backyard ponds. <i>Zataku</i>, a female ratfolk fisher, is Willowshore’s foremost fish keeper; her ability to sense weather changes gives her the perfect edge in her occupation",
          "tags":[
             "shop"
          ]
@@ -313,7 +313,7 @@
          "y":1333,
          "category":"trade",
          "title":"Dock",
-         "description":"",
+         "description":"After the construction of the dam, Willowshore’s old dock was blocked off, thus requiring the construction of a new dock at the mouth of the Ceiba River. The new dock is operated and managed by Rajul Samudra, who was hired by the Ceiba-Duyue Exchange specifically for his boat-building skills",
          "tags":[
             "shop"
          ]
@@ -323,7 +323,7 @@
          "y":751,
          "category":"trade",
          "title":"Mushroom Warehouse",
-         "description":"",
+         "description":"Everyone knows that mushrooms aren’t the only things growing in the farmhouse, though. For the right price, the Mushroom House can grow almost anything. The smuggler <i>Luda Bama</i>, a spry, elderly halfling woman, is the head of this illicit market, which she runs with the explicit permission of Granny Hu",
          "tags":[
             "shop"
          ]
@@ -333,7 +333,7 @@
          "y":1366,
          "category":"landmark",
          "title":"Cerulean Teahouse",
-         "description":"",
+         "description":"A fancy teahouse constructed for the lumber lords, it has been vacant since the collapse of Lung Wa and the departure of the lumber lords. It's now slowly falling into ruin, with only <i>Yami</i> a local semi-feral house cat calling it home.",
          "tags":[
             "landmark"
          ]
@@ -341,10 +341,11 @@
       {
          "x":1462,
          "y":1199,
-         "category":"landmark",
+         "category":"shrine",
          "title":"Abandoned Estates",
-         "description":"",
+         "description":"The abandoned lumber lords’ estates have been thoroughly picked clean. An abandoned shrine to Desna sits in one of the houses",
          "tags":[
+            "shrine",
             "landmark"
          ]
       },
@@ -352,8 +353,8 @@
          "x":1109,
          "y":1096,
          "category":"eatery",
-         "title":"The Leshy Saloon",
-         "description":"",
+         "title":"The Leshy's Salon",
+         "description":"Leshies have lived in the Willowshore area long before the town was founded, but eventually joined the town and set up their own tea farm business. The Salon sells tea, tea ware and pottery, managed by the leshy <i>Mountain Summit Grass</i>.",
          "tags":[
             "shop",
             "eatery"
@@ -364,7 +365,7 @@
          "y":734,
          "category":"landmark",
          "title":"Bones of the Forgotten",
-         "description":"",
+         "description":"An unkept and overgrown area where the bodies of serious criminals are buried. While graves were unmarked in the past, a few wooden posts have been erected recently and paper shuriken hung off them, either a silent protest that the ones buried beneath might have died an unjust death or an attempt to stave off the rise of a bitter, vengeful ghost",
          "tags":[
             "landmark"
          ]
@@ -374,7 +375,7 @@
          "y":166,
          "category":"landmark",
          "title":"The Great Willow",
-         "description":"",
+         "description":"An ancient willow tree of unusual size at the summit of the lowest of these mountains. Protected by the kodama kami <i>“Great Willow”</i> who knows much about the woods of Willowshore and their history.",
          "tags":[
             "landmark"
          ]
@@ -384,7 +385,7 @@
          "y":1733,
          "category":"landmark",
          "title":"Spider Gate",
-         "description":"",
+         "description":"Named for the large stone spider statue that the locals believe houses a guardian spirit that protects Willowshore. Named <i>Ugly Cute</i> it holds a lantern in its fangs. While not as prestigious as the Eternal Lantern on Dawnstep bridge, the villagers strive to keep it lit at all times.",
          "tags":[
             "landmark"
          ]
@@ -414,7 +415,7 @@
          "y":1804,
          "category":"house",
          "title":"Matsu's House",
-         "description":"",
+         "description":"<i>Matsu</i> is a gregarious, retired chef. He is a lifelong bachelor who enjoys participating in village life.",
          "tags":[
             "house"
          ]
@@ -424,7 +425,7 @@
          "y":1346,
          "category":"eatery",
          "title":"Mama Bao's",
-         "description":"",
+         "description":"<i>Nakamura Yu Ming</i>, also known affectionately as <i>Mama Bao</i> runs this small steamed buns shop - a favourite for many locals. The selection is limited but the quality is exceptional.",
          "tags":[
             "shop",
             "eatery"
@@ -435,7 +436,7 @@
          "y":940,
          "category":"house",
          "title":"Ho Jeong-Hui's Home",
-         "description":"",
+         "description":"Home of the handsome guard <i>Ho Jeong-Hui</i>, Here, he gets to spend time cooking the pungent (but delicious) dinners he loves so much without vexing fellow guards in the barracks. His reputation as one of Willowshore’s most eligible bachelors ensures that few invitations to his home are ignored.",
          "tags":[
             "house"
          ]
@@ -445,7 +446,7 @@
          "y":2544,
          "category":"house",
          "title":"Kawaka's Home",
-         "description":"",
+         "description":"Most of Willowshore’s citizens live in or at least near to their place of business. The owner of Cloud Paper House, <i>Myna Kawaka</i> is no exception; he lives in a small suite of rooms on an upper floor of the paper mill",
          "tags":[
             "house"
          ]
@@ -465,7 +466,7 @@
          "y":1759,
          "category":"landmark",
          "title":"Eastern Watchtower",
-         "description":"",
+         "description":"A watchtower built along the road from Karahai, this is the first building of Willowshore a traveler encounters after passing through the Spider Gate.",
          "tags":[
             "landmark"
          ]
@@ -475,7 +476,7 @@
          "y":1120,
          "category":"eatery",
          "title":"The Hungry Groundhog",
-         "description":"",
+         "description":"This inn is run by the boisterous dwarf <i>Borgram Strongarm</i> who is originally from the Five Kings Mountains but ended up in Willowshore. The Hungry Groundhog is well known for its eternal stew that Borgram has kept going for the past 20 years at least.",
          "tags":[
             "shop",
             "eatery"
@@ -486,7 +487,7 @@
          "y":1205,
          "category":"eatery",
          "title":"Zhong's Catch",
-         "description":"",
+         "description":"A small stall on the docks where the gnome <i>Zhong</i> specialises in the best fresh fish of the day. The deep fried fish is popular with the dock workers, but Zhong's speciality are his delicate sushi creations.",
          "tags":[
             "shop",
             "eatery"
