@@ -182,7 +182,7 @@
          "y":1319,
          "category":"landmark",
          "title":"Downtown Willowshore",
-         "description":"Downtown Willowshore remains a major hub of activity in town. A detail of Downtown Willowshore is dispayed on the top left of the map.",
+         "description":"This area is a major hub of activity in town. A detail of Downtown Willowshore is dispayed on the top left of the map.",
          "tags":[
             "landmark"
          ]
@@ -191,8 +191,8 @@
          "x":170,
          "y":695,
          "category":"landmark",
-         "title":"Imperial Baracks house the Willowshore guard. Once commanded by <i>Granny Hu</i>, now the stoic <i>Zheng Peng</i> leads the guard.",
-         "description":"The ",
+         "title":"Imperial Baracks",
+         "description":"The Imperial Baracks house the Willowshore guard. Once commanded by <i>Granny Hu</i>, now the stoic <i>Zheng Peng</i> leads the guard.",
          "tags":[
             "shop"
          ]
@@ -334,7 +334,7 @@
          "y":1366,
          "category":"landmark",
          "title":"Cerulean Teahouse",
-         "description":"A fancy teahouse constructed for the lumber lords, it has been vacant since the collapse of Lung Wa and the departure of the lumber lords. It's now slowly falling into ruin, with only <i>Yami</i> a local semi-feral house cat calling it home.",
+         "description":"A fancy teahouse constructed for the lumber lords, it has been vacant since the collapse of Lung Wa and the departure of the lumber lords. It's now slowly falling into ruin, with only <i>Yami</i>, a local semi-feral house cat, calling it home.",
          "tags":[
             "landmark"
          ]
