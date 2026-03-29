@@ -484,9 +484,23 @@
         const tagMatch = tags.length === 0 || tags.some(t => checkedTags.has(t));
         const searchMatch = !query || (marker.title || '').toLowerCase().includes(query) || (marker.description || '').toLowerCase().includes(query);
         const visible = tagMatch && searchMatch;
+        const wasHidden = markerEls[i].g.getAttribute('display') === 'none';
         if (!visible && selectedMarker === i) deselectAll();
         markerEls[i].g.setAttribute('display', visible ? '' : 'none');
-        if (!visible) markerEls[i].label.setAttribute('display', 'none');
+        if (!visible) {
+          markerEls[i].label.setAttribute('display', 'none');
+        } else if (wasHidden) {
+          const { circle, text } = markerEls[i];
+          circle.style.animation = 'none';
+          circle.getBoundingClientRect();
+          circle.style.animation = 'markerShrink 0.3s ease-in forwards';
+          if (text) {
+            text.style.animation = 'none';
+            text.getBoundingClientRect();
+            text.setAttribute('display', '');
+            text.style.animation = 'iconFadeIn 0.3s ease-in forwards';
+          }
+        }
       });
     }
 
