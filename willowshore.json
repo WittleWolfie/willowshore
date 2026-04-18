@@ -117,6 +117,16 @@
          ]
       },
       {
+         "x":1464,
+         "y":1629,
+         "category":"house",
+         "title":"Kaseru's House",
+         "description":"Kaseru's house, near the riverbank by the Milling Houses.",
+         "tags":[
+            "house"
+         ]
+      },
+      {
          "x":1564,
          "y":1739,
          "category":"trade",
