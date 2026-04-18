@@ -198,6 +198,16 @@
          ]
       },
       {
+         "x":150,
+         "y":400,
+         "category":"house",
+         "title":"Flint's Flat",
+         "description":"A high-priced room downtown that Flint rents.",
+         "tags":[
+            "house"
+         ]
+      },
+      {
          "x":276,
          "y":353,
          "category":"trade",
