@@ -107,6 +107,16 @@
          ]
       },
       {
+         "x":1222,
+         "y":2076,
+         "category":"house",
+         "title":"Meilin's House",
+         "description":"Meilin's cabin by the edge of the woods.",
+         "tags":[
+            "house"
+         ]
+      },
+      {
          "x":1564,
          "y":1739,
          "category":"trade",
