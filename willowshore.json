@@ -281,6 +281,16 @@
       {
          "x":2153,
          "y":1004,
+         "category":"house",
+         "title":"Hiro's Home",
+         "description":"Hiro's home is just behind Mercantile Street, where Willowshore's newer businesses reside.",
+         "tags":[
+            "house"
+         ]
+      },
+      {
+         "x":2153,
+         "y":1004,
          "category":"trade",
          "title":"Woodcarver's Guild",
          "description":"To ensure the lumber lords would never favor anyone, the woodcarvers came together to form a guild, through which young apprentices have the opportunity to intern at different shops during their apprenticeship. <i>Yun Mong-Un</i>, the woodcarver’s current elected guild leader, is a product of such training. <i>Old Matsuki</i> is a highly respected figure here as well, having trained many of the current master crafters.<br><br><b>Services: </b>non-weapon wooden item crafting, artwork and jewerly crafting<br><b>Wares: </b>artwork, wood items, wooden religious symbols",
