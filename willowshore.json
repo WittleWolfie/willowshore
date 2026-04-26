@@ -483,6 +483,16 @@
          ]
       },
       {
+         "x":1750,
+         "y":780,
+         "category":"house",
+         "title":"Katari's Cabin",
+         "description":"A cabin in the woods, Katari's home is a little off the beaten path.",
+         "tags":[
+            "house"
+         ]
+      },
+      {
          "x":1973,
          "y":940,
          "category":"house",
