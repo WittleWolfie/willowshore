@@ -309,6 +309,16 @@
          ]
       },
       {
+         "x":2671,
+         "y":1029,
+         "category":"house",
+         "title":"Zu's House",
+         "description":"A small house among many, near the doctor.",
+         "tags":[
+            "house"
+         ]
+      },
+      {
          "x":2812,
          "y":1129,
          "category":"trade",
