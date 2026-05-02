@@ -26,7 +26,7 @@
       "quest":{
          "color":"rgba(186, 167, 0, 0.7)",
          "faIcon":"map-marker"
-      }
+      },
       "star":{
          "color":"rgba(0, 186, 121, 0.7)",
          "faIcon":"star"
