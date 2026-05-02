@@ -22,6 +22,10 @@
       "eatery":{
          "color":"rgba(177, 0, 186, 0.7)",
          "faIcon":"bowl-rice"
+      },
+      "quest":{
+         "color":"rgba(186, 167, 0, 0.7)",
+         "faIcon":"map-marker"
       }
    },
    "labels":[
@@ -321,9 +325,9 @@
       {
          "x":2812,
          "y":1129,
-         "category":"trade",
+         "category":"quest",
          "title":"The Hand Of Spring",
-         "description":"The practice of doctor <i>Damihansig Mababangloob</i>, whom everyone calls <i>Dami</i> for short. Dami uses a mix of acupuncture, purified chemicals, and surgery to provide care. Though his treatments aren’t what Willowshore is used to, Dami has developed quite a reputation for being a charitable doctor who cares more about his patients than monetary gain.<br><br><b>Services: basic non-magical healing</b><br><b>Wares: </b>alchemical healing items, healer's kit supplies, non-magical healing items",
+         "description":"The practice of doctor <i>Damihansig Mababangloob</i>, whom everyone calls <i>Dami</i> for short. Dami uses a mix of acupuncture, purified chemicals, and surgery to provide care. Though his treatments aren’t what Willowshore is used to, Dami has developed quite a reputation for being a charitable doctor who cares more about his patients than monetary gain.<br><br><b>Quest: Granny Hu asked you to bring Dami to the trade offices.<b><br><br><b>Services: basic non-magical healing</b><br><b>Wares: </b>alchemical healing items, healer's kit supplies, non-magical healing items",
          "tags":[
             "shop"
          ]
