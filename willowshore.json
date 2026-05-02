@@ -27,6 +27,10 @@
          "color":"rgba(186, 167, 0, 0.7)",
          "faIcon":"map-marker"
       }
+      "star":{
+         "color":"rgba(0, 186, 121, 0.7)",
+         "faIcon":"star"
+      }
    },
    "labels":[
       {
@@ -38,6 +42,14 @@
       }
    ],
    "markers":[
+      {
+         "x":4518,
+         "y":1000,
+         "category":"star",
+         "title":"Current Location",
+         "description":"Current party location.",
+         "tags":[]
+      },
       {
          "x":310,
          "y":2165,
