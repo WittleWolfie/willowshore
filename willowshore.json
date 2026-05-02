@@ -327,9 +327,10 @@
          "y":1129,
          "category":"quest",
          "title":"The Hand Of Spring",
-         "description":"The practice of doctor <i>Damihansig Mababangloob</i>, whom everyone calls <i>Dami</i> for short. Dami uses a mix of acupuncture, purified chemicals, and surgery to provide care. Though his treatments aren’t what Willowshore is used to, Dami has developed quite a reputation for being a charitable doctor who cares more about his patients than monetary gain.<br><br><b>Quest: Granny Hu asked you to bring Dami to the trade offices.<b><br><br><b>Services: basic non-magical healing</b><br><b>Wares: </b>alchemical healing items, healer's kit supplies, non-magical healing items",
+         "description":"The practice of doctor <i>Damihansig Mababangloob</i>, whom everyone calls <i>Dami</i> for short. Dami uses a mix of acupuncture, purified chemicals, and surgery to provide care. Though his treatments aren’t what Willowshore is used to, Dami has developed quite a reputation for being a charitable doctor who cares more about his patients than monetary gain.<br><br><b>Quest:</b> Granny Hu asked you to bring Dami to the trade offices.<b><br><br><b>Services: basic non-magical healing</b><br><b>Wares: </b>alchemical healing items, healer's kit supplies, non-magical healing items",
          "tags":[
-            "shop"
+            "shop",
+            "quest"
          ]
       },
       {
@@ -381,6 +382,16 @@
          "description":"Everyone knows that mushrooms aren’t the only things growing in the farmhouse, though. For the right price, the Mushroom House can grow almost anything. The smuggler <i>Luda Bama</i>, a spry, elderly halfling woman, is the head of this illicit market, which she runs with the explicit permission of Granny Hu.<br><br><b>Wares: </b>adventuring gear, drugs, poisons, tattoos",
          "tags":[
             "shop"
+         ]
+      },
+      {
+         "x":4554,
+         "y":519,
+         "category":"quest",
+         "title":"Drying Yards",
+         "description":"<b>Quest:</b> Granny Hu's grandkids were last seen near here the night of the festival.",
+         "tags":[
+            "quest"
          ]
       },
       {
