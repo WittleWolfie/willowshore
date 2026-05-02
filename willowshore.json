@@ -163,11 +163,12 @@
       {
          "x":1877,
          "y":1629,
-         "category":"landmark",
+         "category":"quest",
          "title":"Dawnstep Bridge",
-         "description":"A stone bridge some seven feet above the water, connecting Southshore and Northridge, as well as the location of the <i>Eternal Lantern</i>. Shenmen custom dictates the latern must remain lit at all times lest the town appear abandoned, which would invite vermin, ghosts, dangerous beasts and worse into the town.",
+         "description":"A stone bridge some seven feet above the water, connecting Southshore and Northridge, as well as the location of the <i>Eternal Lantern</i>. Shenmen custom dictates the latern must remain lit at all times lest the town appear abandoned, which would invite vermin, ghosts, dangerous beasts and worse into the town.<br><br><b>Quest:</b> Retake the bridge and light the Eternal Lantern.",
          "tags":[
-            "landmark"
+            "landmark",
+            "quest"
          ]
       },
       {
