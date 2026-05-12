@@ -43,8 +43,8 @@
    ],
    "markers":[
       {
-         "x":4518,
-         "y":1000,
+         "x":1086,
+         "y":1238,
          "category":"star",
          "title":"Current Location",
          "description":"Current party location.",
